@@ -1,0 +1,2 @@
+# Smart-Farm-System
+This project stimulates a smart and labour-free method to water plants, and fill water in wells from reservoirs using sensors, actuators and Arduino software. It makes use 4 sensors: Soil Moisture sensor, DHT(Humidity and Temperature) sensor, Raindrop sensor and Water Level sensor. Each of these are connected to an Arduino UNO board, along with the appropriate actuators(relays, buzzers, water pumps). The following codes are run using Arduino Software. 
